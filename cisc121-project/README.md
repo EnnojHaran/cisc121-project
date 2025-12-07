@@ -16,30 +16,20 @@ This project implements a **Binary Search Algorithm Visualizer** using Python an
 ## Demo Screenshots
 
 ### 1. Main Interface
-![Main Interface](screenshots/picture%201.png)
-*Initial app screen with input fields and example buttons*
+![Main Interface](cisc121-project/screenshots/picture%201.png)
 
 ### 2. Algorithm in Action - Step-by-Step Search
 | **Picture 2** | **Picture 2.1** |
 |---------------|-----------------|
-| ![Algorithm Steps Part 1](screenshots/picture%202.png) | ![Algorithm Steps Part 2](screenshots/picture%202.1.png) |
-| *Binary search steps 1-3 finding target 7* | *Binary search steps 3-4 completing the search* |
+| ![Algorithm Steps Part 1](cisc121-project/screenshots/picture%202.png) | ![Algorithm Steps Part 2](cisc121-project/screenshots/picture%202.1.png) |
 
 ### 3. Successful Search
-![Success Result](screenshots/picture%203.png)
-*Target found with detailed statistics and time complexity analysis*
+![Success Result](cisc121-project/screenshots/picture%203.png)
 
 ### 4. Edge Cases & Testing
 | **Target Not Found** | **Multiple Test Examples** |
 |----------------------|---------------------------|
-| ![Not Found Case](screenshots/Picture%204.png) | ![More Examples](screenshots/more%20examples.png) |
-| *Handling case where target is not in array* | *Preloaded examples for quick testing* |
-
-### 4. Edge Cases & Testing
-| **Target Not Found** | **Multiple Test Examples** |
-|----------------------|---------------------------|
-| ![Not Found Case](screenshots/picture4.png) | ![More Examples](screenshots/more%20examples.png) |
-| *Handling case where target is not in array* | *Preloaded examples for quick testing* |
+| ![Not Found Case](cisc121-project/screenshots/Picture%204.png) | ![More Examples](cisc121-project/screenshots/more%20examples.png) |
 
 ## Problem Breakdown & Computational Thinking
 
@@ -245,4 +235,5 @@ Export functionality for saving search sessions
 
 
 Mobile-responsive design for better accessibility
+
 
