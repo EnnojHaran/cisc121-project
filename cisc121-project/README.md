@@ -16,12 +16,12 @@ This project implements a **Binary Search Algorithm Visualizer** using Python an
 ## Demo Screenshots
 
 ### 1. Main Interface
-![Main Interface](cisc121-project/picture1.png)
+![Main Interface](picture%201.png)
 
 ### 2. Algorithm in Action - Step-by-Step Search
 | **Picture 2** | **Picture 2.1** |
 |---------------|-----------------|
-| ![Algorithm Steps Part 1](screenshots/picture2.png) | ![Algorithm Steps Part 2](screenshots/picture2.1.png) |
+| ![Algorithm Steps Part 1](screenshots/picture2.png) | ![Algorithm Steps Part 2](screenshots/picture2-1.png) |
 
 ### 3. Successful Search
 ![Success Result](screenshots/picture3.png)
@@ -30,7 +30,6 @@ This project implements a **Binary Search Algorithm Visualizer** using Python an
 | **Target Not Found** | **Multiple Test Examples** |
 |----------------------|---------------------------|
 | ![Not Found Case](screenshots/picture4.png) | ![More Examples](screenshots/more-examples.png) |
-
 ## Problem Breakdown & Computational Thinking
 
 ### Decomposition
@@ -235,6 +234,7 @@ Export functionality for saving search sessions
 
 
 Mobile-responsive design for better accessibility
+
 
 
 
