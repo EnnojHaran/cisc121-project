@@ -6,7 +6,7 @@ Queen's University Computing Student
 CISC 121 Course Project
 
 ## Live Demo
-[Click here to try the Hugging Face Space](#) *(Link will be added after deployment)*
+https://huggingface.co/spaces/ennojharan123/cisc121-binary-search *(Link will be added after deployment)*
 
 ## Project Overview
 This project implements a **Binary Search Algorithm Visualizer** using Python and Gradio. The application provides an interactive, step-by-step visualization of how binary search works, making it an educational tool for understanding this fundamental computer science algorithm.
@@ -234,6 +234,7 @@ Export functionality for saving search sessions
 
 
 Mobile-responsive design for better accessibility
+
 
 
 
