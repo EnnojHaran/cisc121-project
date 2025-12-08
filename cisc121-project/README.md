@@ -25,13 +25,13 @@ This project implements a **Binary Search Algorithm Visualizer** using Python an
 | *Binary search steps 1-3 finding target 7* | *Binary search steps 3-4 completing the search* |
 
 ### 3. Successful Search
-![Success Result](picture3.png)
+![Success Result](picture%203.png)
 *Target found with detailed statistics and time complexity analysis*
 
 ### 4. Edge Cases & Testing
 | **Target Not Found** | **Multiple Test Examples** |
 |----------------------|---------------------------|
-| ![Not Found Case](picture%204.png) | ![More Examples](more-examples.png) |
+| ![Not Found Case](picture%204.png) | ![More Examples](more examples.png) |
 | *Handling case where target is not in array* | *Preloaded examples for quick testing* |
 
 ## Problem Breakdown & Computational Thinking
@@ -238,6 +238,7 @@ Export functionality for saving search sessions
 
 
 Mobile-responsive design for better accessibility
+
 
 
 
