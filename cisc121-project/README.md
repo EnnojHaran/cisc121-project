@@ -21,7 +21,7 @@ This project implements a **Binary Search Algorithm Visualizer** using Python an
 ### 2. Algorithm in Action - Step-by-Step Search
 | **Picture 2** | **Picture 2.1** |
 |---------------|-----------------|
-| ![Algorithm Steps Part 1](screenshots/picture2.png) | ![Algorithm Steps Part 2](screenshots/picture2-1.png) |
+| ![Algorithm Steps Part 1](screenshots/picture2.png) | ![Algorithm Steps Part 2](screenshots/picture2.1.png) |
 
 ### 3. Successful Search
 ![Success Result](screenshots/picture3.png)
@@ -235,6 +235,7 @@ Export functionality for saving search sessions
 
 
 Mobile-responsive design for better accessibility
+
 
 
 
